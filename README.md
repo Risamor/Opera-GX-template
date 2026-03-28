@@ -24,12 +24,13 @@ Template.zip
 
 ├── wallpaper/
 
-│   ├── background.mp4
+│     ├── background.mp4
 
-│   └── first_frame.png
+│     └── first_frame.png
 
 ├── music/
-    └── Music.MP3
+
+│     └── Music.MP3
 
 ---
 
