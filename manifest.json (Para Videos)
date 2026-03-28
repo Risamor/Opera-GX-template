@@ -1,0 +1,49 @@
+{
+    "name": "YourNameMod",
+    "description": "YourDescription",
+    "developer": {
+        "name": "YouName"
+    },
+    "icons": {
+        "512": "icon_512.png"
+    },
+    "manifest_version": 3,
+    "mod": {
+        "license": "license.txt",
+        "payload": {
+            "background_music": [
+                "Music/Music.MP3"
+            ],
+            "browser_sounds": {},
+            "keyboard_sounds": {},
+            "page_styles": [],
+            "shaders": {},
+            "theme": {
+                "dark": {
+                    "gx_accent": {"h": 0, "s": 100, "l": 50},
+                    "gx_secondary_base": {"h": 280, "s": 80, "l": 20}
+                },
+                "light": {
+                    "gx_accent": {"h": 0, "s": 100, "l": 55},
+                    "gx_secondary_base": {"h": 280, "s": 70, "l": 25}
+                }
+            },
+            "wallpaper": {
+                "dark": {
+                    "image": "wallpaper/background.mp4",
+                    "first_frame": "wallpaper/first_frame.png",
+                    "text_color": "#F0F0F0",
+                    "text_shadow": "#FF0033"
+                },
+                "light": {
+                    "image": "wallpaper/background.mp4",
+                    "first_frame": "wallpaper/first_frame.png",
+                    "text_color": "#FFFFFF",
+                    "text_shadow": "#660066"
+                }
+            }
+        },
+        "schema_version": 1
+    },
+    "version": "1.0.0"
+}
