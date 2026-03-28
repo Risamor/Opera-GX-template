@@ -29,7 +29,6 @@ Template.zip
 │   └── first_frame.png
 
 ├── music/
-
     └── Music.MP3
 
 ---
