@@ -15,13 +15,21 @@ Template personalizado para Mod Opera GX
 
 ## 📁 Estructura del Template
 Template.zip
+
 ├── manifest.json
+
 ├── icon_512.png
+
 ├── license.txt
+
 ├── wallpaper/
+
 │   ├── background.mp4
+
 │   └── first_frame.png
+
 ├── music/
+
     └── Music.MP3
 
 ---
