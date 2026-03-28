@@ -1,0 +1,39 @@
+===========================================
+NAMEMOD
+Opera GX - Custom Theme
+===========================================
+
+Author: [Tu nombre]
+Discord: [tu usuario]
+Twitter: [tu usuario] (opcional)
+Version: 1.0.0
+Release Date: 2026
+
+===========================================
+DESCRIPTION
+===========================================
+Poner una descripcion personalizada
+
+===========================================
+TERMS OF USE
+===========================================
+✓ Free to use personally
+✓ Free to share with friends
+✗ Do not claim as your own
+✗ Do not sell or include in paid products
+✗ Do not redistribute modified versions without permission
+
+===========================================
+CREDITS
+===========================================
+Wallpaper video: [nombre del creador o fuente]
+Music: [nombre de la canción o artista]
+
+===========================================
+CONTACT
+===========================================
+For questions, suggestions, or permissions:
+Discord: [tu usuario] (opcional)
+Gmail: [tu gmail]
+
+===========================================
