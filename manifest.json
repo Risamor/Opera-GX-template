@@ -12,7 +12,7 @@
         "license": "license.txt",
         "payload": {
             "background_music": [
-                "music/Music.MP3"
+                "Music/Music.MP3"
             ],
             "browser_sounds": {},
             "keyboard_sounds": {},
